@@ -1,0 +1,44 @@
+body {
+  width: 970px;
+  display: inline-block;
+  /*margin: 0px auto;*/
+}
+
+#header {
+  text-align: center;
+}
+
+#body {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  
+}
+
+#about {
+  width: 470px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+
+
+}
+#projects {
+  width: 470px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+
+}
+.description {
+  width: 190px;
+  height: 75px;
+  padding: 5px;
+  display: block;
+  border: 1.5px solid black;
+  margin-left: 125px;
+  
+
+  
+}
+

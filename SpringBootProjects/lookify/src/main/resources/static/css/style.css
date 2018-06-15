@@ -1,0 +1,15 @@
+body {
+	width: 970px;
+	height: auto;
+	font-family: sans-serif;
+	display: inline-block;
+}
+
+#landing {
+	text-align: center;
+}
+
+#header {
+	margin-bottom: 25px;
+}
+

@@ -1,0 +1,23 @@
+body {
+	text-align: left;
+	display: inline-block;
+	font-family: sans-serif;
+	margin-left: 50px;
+}
+body h1 {
+	text-align: center;
+}
+#image {
+	width: 150px;
+	height: auto;
+	
+	border: 1px solid black;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 16pt;
+	
+}

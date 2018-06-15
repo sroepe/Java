@@ -1,0 +1,22 @@
+body {
+	display: inline-block;
+	font-family: sans-serif;
+	width: 970px;
+}
+h1 {
+	text-align: center;
+}
+
+.projblock {
+	display: inline-block;
+	width: 320px;
+	font-size: 16pt;
+	text-align: center;
+}
+
+#image {
+	width: 150px;
+	height: auto;
+	border: 1px solid black;
+}
+

@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+
+table {
+	border: 2px solid black;
+	width: 800px;
+	margin-bottom: 20px;
+}
+
+th, td {
+	border: 1px solid black;
+}
